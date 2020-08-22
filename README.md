@@ -1,1 +1,1 @@
-# coursera-week-3-project
+# coursera-project
